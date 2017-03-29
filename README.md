@@ -27,4 +27,5 @@ But it is hard to decide the best model based on the facts below:
 
 # Authors:
 Xu Gao: the leader, initial research, news parsing, model design
-Scott Edenbaum: SQL database created and BeautifulSoup Scraping.
+
+Scott Edenbaum: SQL database created and BeautifulSoup scraping
