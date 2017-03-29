@@ -8,9 +8,13 @@ Basic Model: Neural Network with 2 hidden layers.
 output layer: 1 node, sigmoid
 
 Version 1: S&P500, NYSE Volume, Nasdaq Composite, 5-day lag time series for the stock
+
 Version 2: Version 1 + Sentiment Polarity for news
+
 Version 3: Version 1 + average word embeddings for the most confidencial sentence(filter by ReVerb, http://reverb.cs.washington.edu/)
+
 Version 4: Version 1 + Doc2Vec(all news content)
+
 
 # Conclusion
 News actually can improve the performance of stock predictions.
